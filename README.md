@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mb-doo007
-- 👀 I’m interested in django web app development
-- 🌱 I’m currently learning how to code and deploy a django web app
+- 👀 I’m interested in AI, especially memGPT, autogen, .
 - 💞️ I’m looking to collaborate on solving programming issues
 
 <!---
